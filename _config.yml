@@ -1,0 +1,5 @@
+remote_theme: pages-themes/minimal
+plugins:
+  - jekyll-remote-theme
+title: CSCE 5612 Documentation Website
+description: This website is created by Linto Thomas for the documentation of lab and project work in the CSCE 5612 Embedded Hardware/Software Design course, Spring 2025.
